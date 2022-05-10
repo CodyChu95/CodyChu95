@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodyChu95
+- 👋 Hi, I’m Cody
 - 👀 I’m interested in computer vision and machine learning
 - 🌱 I’m currently learning tensorflow
 - 💞️ I’m looking to collaborate on wet lab automation
